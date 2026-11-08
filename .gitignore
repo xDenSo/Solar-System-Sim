@@ -1,0 +1,32 @@
+
+# Kompilierte C-Programme
+*.o
+*.a
+*.so
+*.out
+SolarSystem
+
+# WebAssembly Build-Dateien
+web/physics.js
+web/physics.wasm
+web/physics.data
+
+# Debug- und temporäre Dateien
+*.log
+*.tmp
+*.bak
+
+# Editor- und IDE-Dateien
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+
+# Python Cache
+__pycache__/
+*.pyc
+
